@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Leo Apaza</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Era un día tranquilo en Los Ángeles y Tate paseaba por su jardín.
+        A decir verdad, Nueva York era una ciudad demasiado ruidosa y eso a Violet le molestaba.
+        Cuando tenía 6 años, nosotros vivíamos en Londres, pero mi perro murió y tuvimos que hacerle un funeral.
+        Decidimos que la mejor idea era ir a comer a McDonald´s porque teníamos frío.
+        Tras tres horas esperando a Kit en la estación, la hamburguesa con patatas y refresco grande ya estaban listas.
+        Entonces, Kyle fue a PullBear y se compró una chaqueta vaquera. Jimmy era un joven bastante creativo y
+        amaba la música rock. Ella era una fanática total de Mozart.
+        Rory vivía enamorado de American Horror Story y le encantaría que los elefantes volasen
+        para así poder tener dinero infinito y poder comer en Nando´s. Finalmente, él murió y
+        Caperucita fue a merendar con las tres hadas madrinas al castillo de verano de Elsa.
+    </string>
+    <string name="what_is_your_nickname">What is your NickName</string>
+    <string name="content_description">Descripcion del Contenido</string>
+    <string name="done">Listo</string>
+</resources>
